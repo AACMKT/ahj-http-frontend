@@ -1,0 +1,25 @@
+{
+    "extends": "airbnb-base",
+    "env": {
+       "es6": true,
+       "browser": true,
+       "jest": true
+    },
+    "rules": {
+      "no-restricted-syntax": [
+        "error",
+        "LabeledStatement",
+        "WithStatement"
+      ],
+      "import/prefer-default-export": "off",
+      "no-console": "off",
+      "import/no-named-as-default": "off",
+      "import/no-named-as-default-member": "off",
+      "no-underscore-dangle": "off",
+      "consistent-return": "off",
+      "class-methods-use-this": "off",
+      "default-case": "off",
+      "no-case-declarations": "off",
+      "no-param-reassign": "off"
+    }
+  }
