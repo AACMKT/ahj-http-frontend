@@ -1,6 +1,6 @@
 # HTTP-requests-frontend
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7pbqkaumrlr35vkh?svg=true)](https://ci.appveyor.com/project/AACMKT/ahj-http-frontend)
+[![Build status](https://ci.appveyor.com/api/projects/status/mcgkvgr422dloeq4?svg=true)](https://ci.appveyor.com/project/AACMKT/ahj-http-frontend)
 
 [Ссылка на публикацию приложения на GitHub Pages](https://aacmkt.github.io/ahj-http-frontend/)
 
